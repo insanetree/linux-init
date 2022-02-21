@@ -1,0 +1,9 @@
+" setting line numbers
+set number
+set relativenumber
+
+" use system clipboard
+set clipboard=unnamedplus
+
+" syntax highlighting
+syntax on
