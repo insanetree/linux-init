@@ -1,0 +1,7 @@
+[user]
+	name = insanetree
+	email = p0p0v1c.41ek54nd4r@gmail.com
+[credential "https://github.com"]
+	username = insanetree
+[credential]
+	helper = store
