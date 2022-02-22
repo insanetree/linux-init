@@ -1,7 +1,7 @@
 #! /bin/sh
 
 #vim configuration
-cp vimrc ~/.vimrc
+cp dotfiles/vimrc ~/.vimrc
 
 #git configuration
-cp gitconfig ~/.gitconfig
+cp dotfiles/gitconfig ~/.gitconfig
