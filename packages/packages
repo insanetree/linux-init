@@ -1,6 +1,9 @@
 #system
 xorg
 libx11-6
+libxft-dev
+libxinerama-dev
+build-essential
 #development
 gcc
 make
