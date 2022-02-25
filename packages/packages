@@ -1,5 +1,6 @@
 #system
 xorg
+libx11-dev
 #development
 gcc
 make
