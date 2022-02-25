@@ -5,7 +5,4 @@ libxft-dev
 libxinerama-dev
 build-essential
 #development
-gcc
-make
-make-doc
 vim
