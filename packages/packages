@@ -4,5 +4,6 @@ libx11-6
 libxft-dev
 libxinerama-dev
 build-essential
+net-tools
 #development
 vim
