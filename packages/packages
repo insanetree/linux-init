@@ -1,9 +1,18 @@
+#non-free drivers
+firmware-linux-nonfree
+firmware-iwlwifi
+firmware-sof-signed
 #system
 xorg
 libx11-6
 libxft-dev
 libxinerama-dev
-build-essential
+#internet
 net-tools
+#sound
+pulseaudio
+pavucontrol
 #development
 vim
+build-essential
+
