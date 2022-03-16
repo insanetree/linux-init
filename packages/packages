@@ -2,13 +2,15 @@
 firmware-linux-nonfree
 firmware-iwlwifi
 firmware-sof-signed
-#system
+#Xserver stuff
 xorg
 libx11-6
 libxft-dev
 libxinerama-dev
+xwallpaper
 #internet
 net-tools
+firefox-esr
 #sound
 pulseaudio
 pavucontrol
