@@ -17,4 +17,5 @@ pavucontrol
 #development
 vim
 build-essential
-
+#backup
+deja-dup
