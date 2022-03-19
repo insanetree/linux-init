@@ -14,4 +14,4 @@ doas make clean install -C ./dmenu/
 git clone https://github.com/insanetree/st
 doas make clean install -C ./st/
 git clone https://github.com/insanetree/slstatus
-doas make clean inslstatusall -C ./slstatus/
+doas make clean install -C ./slstatus/
